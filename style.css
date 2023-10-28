@@ -38,7 +38,8 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  /* font-family: 'Rubik Dirt', cursive; */
+  font-family: 'Space Mono', monospace;
 }
 
 .seccion-descripcion {
